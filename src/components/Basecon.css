@@ -1,0 +1,145 @@
+
+.baseConContainer{
+    margin: 100px 50px;
+    }
+    
+    .baseconImgBG{
+        background-size:cover;
+        background-repeat:no-repeat;
+        position: relative;
+        height: 400px;
+    }
+    
+    
+    .rockMan{
+        position:absolute;
+        left: 537px;
+        width: 250px;
+        height: auto;
+        filter: drop-shadow(5px 5px 5px #404040);
+        transform: translatey(0px);
+        animation: float 6s ease-in-out infinite;
+    }
+    @keyframes float {
+        0% {
+        -webkit-filter: drop-shadow(5px 5px 5px #404040);
+        filter: drop-shadow(5px 5px 5px #404040);;
+            transform: translatey(0px);
+        }
+        50% {
+        -webkit-filter: drop-shadow(5px 5px 5px #404040);
+        filter: drop-shadow(5px 5px 5px #404040);
+            transform: translatey(-20px);
+        }
+        100% {
+        -webkit-filter: drop-shadow(5px 5px 5px #404040);
+        filter: drop-shadow(5px 5px 5px #404040);
+            transform: translatey(0px);
+        }
+    }
+    
+    .baseConcept{
+        text-align: left;
+        color: #2CBCA5;
+        font-family: "Inter", Sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 1.4em;
+        letter-spacing: 1px;
+    }
+    
+    .baseConceptTittle{
+    
+        color: #FFFFFF;
+        text-align: left;
+        font-family: "Raleway", Sans-serif;
+        font-size: 43px;
+        font-weight: 600;
+        line-height: 1.1em;
+        letter-spacing: 0px;
+    }
+    
+    .baseConceptDesc{
+        color: #848296;
+        text-align: left;
+        font-family: "DM Sans", Sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 1.9em;
+    }
+    @media only screen and (min-width: 412px) and (max-width: 413px){
+        .baseConContainer{
+            margin: 50px 0;
+            display: flex;
+            flex-flow: column-reverse;
+        }
+        .baseconImgBG{
+            height: 200px;
+            margin-right: 20px;
+        }
+        .rockMan{
+            left: 208px;
+            width: 130px;
+            top: 1690px
+        }
+        .baseConcept{
+            font-size: 12px;
+        }
+        .baseConceptTittle{
+            font-size: 30px;
+        }
+        .baseConceptDesc{
+            font-size: 16px;
+        }
+    }
+    @media only screen and (min-width: 414px) and (max-width: 539px){
+        .baseConContainer{
+            margin: 50px 0;
+            display: flex;
+            flex-flow: column-reverse;
+        }
+        .baseconImgBG{
+            height: 200px;
+            margin-right: 20px;
+        }
+        .rockMan{
+            left: 208px;
+            width: 130px;
+            top: 1690px
+        }
+        .baseConcept{
+            font-size: 12px;
+        }
+        .baseConceptTittle{
+            font-size: 30px;
+        }
+        .baseConceptDesc{
+            font-size: 16px;
+        }
+    }
+    @media only screen and (min-width: 540px) and (max-width: 767px){
+        .baseConContainer{
+            margin: 50px 0;
+            display: flex;
+            flex-flow: column-reverse;
+        }
+        .baseconImgBG{
+            height: 271px;
+            margin-right: 20px;
+        }
+        .rockMan{
+            left: 284px;
+            width: 130px;
+            top: 1596px;
+        }
+        .baseConcept{
+            font-size: 12px;
+        }
+        .baseConceptTittle{
+            font-size: 30px;
+        }
+        .baseConceptDesc{
+            font-size: 16px;
+        }
+    }

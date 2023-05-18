@@ -1,0 +1,70 @@
+.joinNowRow{
+    margin-top: 80px;
+    padding: 100px 380px;
+}
+
+.joinNowTittle{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Raleway", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.3em;
+    letter-spacing: 0px;
+}
+
+.joinNowDesc{
+    color: #A2A1B2;
+    font-family: "DM Sans", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.9em;
+}
+@media only screen and (min-width: 412px) and (max-width: 413px){
+    .joinNowCon{
+        overflow: hidden;
+    }
+    .joinNowRow{
+        margin-top: 80px;
+        padding: 0;
+    }
+    .joinNowTittle{
+        padding: 20px 0;
+        font-size: 30px;
+    }
+    .joinNowDesc{
+        font-size: 16px;
+    }
+}
+@media only screen and (min-width: 414px) and (max-width: 539px){
+    .joinNowCon{
+        overflow: hidden;
+    }
+    .joinNowRow{
+        margin-top: 80px;
+        padding: 0;
+    }
+    .joinNowTittle{
+        padding: 20px 0;
+        font-size: 30px;
+    }
+    .joinNowDesc{
+        font-size: 16px;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 767px){
+    .joinNowCon{
+        overflow: hidden;
+    }
+    .joinNowRow{
+        margin-top: 80px;
+        padding: 0;
+    }
+    .joinNowTittle{
+        padding: 20px 0;
+        font-size: 30px;
+    }
+    .joinNowDesc{
+        font-size: 16px;
+    }
+}

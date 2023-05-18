@@ -1,0 +1,37 @@
+.cart-box{
+    background-color: #131325;
+    border-radius: 20px;
+    padding:50px 30px;
+    margin: 16px -30px;
+}
+.cart-heading{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+.spanL{
+    color: #2CBCA5;
+}
+.cart-total{
+    font-family: 'Inter', sans-serif;
+}
+.cart-table td{
+    font-family: 'Inter', sans-serif;
+}
+.cartTotal-price h3{
+    font-family: 'Inter', sans-serif;
+}
+@media only screen and (min-width: 412px) and (max-width: 539px){
+    .cart-box{
+        margin: 16px 0;
+    }
+}
+@media only screen and (min-width: 414px) and (max-width: 539px){
+    .cart-box{
+        margin: 16px 0;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 767px){
+    .cart-box{
+        margin: 16px 0;
+    }
+}

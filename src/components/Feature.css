@@ -1,0 +1,138 @@
+
+
+
+.featuresCon{
+    border-radius: 25px;
+    background-color:#131325;
+    padding: 100px 30px 30px 30px;
+}
+
+
+.featuresTittle{
+    text-align: center;
+    color: #2CBCA5;
+    font-family: "Inter", Sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    letter-spacing: 1px;
+}
+
+.featuresPte{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Raleway", Sans-serif;
+    font-size: 43px;
+    font-weight: 600;
+    line-height: 1.3em;
+    letter-spacing: 0px;
+}
+
+.featuresDesc{
+    text-align: center;
+    color: #848296;
+    font-family: "DM Sans", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.9em;
+
+}
+
+.featuresCard{
+    background-color: #25283D;
+    padding: 40px 40px 15px 40px;
+    border-radius: 20px;
+}
+
+.featuresCard-img{
+    width: 100px;
+    height: 125px;
+    object-fit: contain;
+    margin: 0px 0px 12px 0px;
+}
+
+.featuresCard-title{
+    color: #FFFFFF;
+    margin: 0px 0px 12px 0px;
+    font-family: "Raleway", Sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.featuresCard-text{
+    color: #9694A8;
+    font-family: "DM Sans", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6em;
+    /* max-width: 240px; */
+}
+
+.featureContainer{
+    margin: 100px 50px;
+}
+.rockMan2{
+    position:absolute;
+    right: 60px;
+    width: 250px;
+    height: auto;
+    filter: drop-shadow(5px 5px 5px #404040);
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+
+}
+@media only screen and (min-width: 412px) and (max-width: 413px){
+    .featuresTittle{
+        font-size: 12px;
+    }
+    .featuresPte{
+        font-size: 30px;
+    }
+    .featuresDesc{
+        font-size: 16px;
+    }
+    .featuresCard-img{
+        width: 50px;
+        
+    }
+    .featuresCard{
+        margin: 10px 0;
+    }
+}
+@media only screen and (min-width: 414px) and (max-width: 539px){
+    .featuresTittle{
+        font-size: 12px;
+    }
+    .featuresPte{
+        font-size: 30px;
+    }
+    .featuresDesc{
+        font-size: 16px;
+    }
+    .featuresCard-img{
+        width: 50px;
+        
+    }
+    .featuresCard{
+        margin: 10px 0;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 767px){
+    .featuresTittle{
+        font-size: 12px;
+    }
+    .featuresPte{
+        font-size: 30px;
+    }
+    .featuresDesc{
+        font-size: 16px;
+    }
+    .featuresCard-img{
+        width: 50px;
+        
+    }
+    .featuresCard{
+        margin: 10px 0;
+    }
+}

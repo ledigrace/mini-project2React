@@ -1,0 +1,197 @@
+.heroSection{
+    margin-top: 90px;
+}
+.playCollect{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #2CBCA5;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.sloGan{
+    color: #FFFFFF;
+    font-family: "Raleway", Sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    max-width: 450px;
+}
+
+.subSlogan{
+    color: #848296;
+    font-family: "DM Sans", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7em;
+    max-width: 450px;
+}
+
+.btnDis{
+    font-family: "Raleway", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    fill: #020710;
+    color: #020710;
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #E75469 0%, #A93EF8 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 4px 20px 0px rgba(169.00000000000017, 62, 248, 0.23921568627450981);
+    padding: 15px 45px 15px 45px;
+}
+.btnDis:hover{
+    color: #fff;
+}
+.topSide{
+    /* background-image:url("../img/topMainBG.png"); */
+    background-size:cover;
+    background-repeat:no-repeat;
+    position: relative;
+    height: 600px;
+}
+
+.imgBG{
+    position:absolute;
+    width: 550px;
+    height: auto;
+    /* top: 200px; */
+}
+.imgBG{
+    filter: drop-shadow(5px 5px 5px #757575);
+    transform: translatey(0px);
+    animation: float 6s ease-in-out infinite;
+}
+@keyframes float {
+    0% {
+    -webkit-filter: drop-shadow(5px 5px 5px #757575);
+    filter: drop-shadow(5px 5px 5px #757575);;
+        transform: translatey(0px);
+    }
+    50% {
+    -webkit-filter: drop-shadow(5px 5px 5px #757575);
+    filter: drop-shadow(5px 5px 5px #757575);
+        transform: translatey(-50px);
+    }
+    100% {
+    -webkit-filter: drop-shadow(5px 5px 5px #757575);
+    filter: drop-shadow(5px 5px 5px #757575);
+        transform: translatey(0px);
+    }
+}
+.gD{
+    font-family: 'Sigmar', cursive;
+    font-size: 80px;
+    color: #3433333e;
+}
+@media only screen and (min-width: 412px) and (max-width: 413px){
+    .heroSection{
+        margin-top: 0;
+        overflow-x: hidden;
+    }
+    .playCollect{
+        font-size: 12px;
+    }
+    .sloGan{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .subSlogan{
+        font-size: 16px;
+    }
+    .btnDis{
+        font-size: 15px;
+        padding: 15px 30px 15px 30px;
+    }
+    .names{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .gD {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .imgBG{
+        width: 250px;
+        margin: 15px 61px;
+    }
+    .topSide{
+        width: 300px;
+        height: 300px;
+        margin: -2px 37px;
+    }
+}
+@media only screen and (min-width: 414px) and (max-width: 539px){
+    .heroSection{
+        margin-top: 0;
+        overflow-x: hidden;
+    }
+    .playCollect{
+        font-size: 12px;
+    }
+    .sloGan{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .subSlogan{
+        font-size: 16px;
+    }
+    .btnDis{
+        font-size: 15px;
+        padding: 15px 30px 15px 30px;
+    }
+    .names{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .gD {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .imgBG{
+        width: 250px;
+        margin: 15px 61px;
+    }
+    .topSide{
+        width: 300px;
+        height: 300px;
+        margin: -2px 37px;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 767px){
+    .heroSection{
+        margin-top: 0;
+        overflow-x: hidden;
+    }
+    .playCollect{
+        font-size: 12px;
+    }
+    .sloGan{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .subSlogan{
+        font-size: 16px;
+    }
+    .btnDis{
+        font-size: 15px;
+        padding: 15px 30px 15px 30px;
+    }
+    .names{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .gD {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .imgBG{
+        width: 372px;
+        margin: 15px 61px;
+    }
+    .topSide{
+        width: 332px;
+        height: 371px;
+        margin: -2px 37px;
+    }
+}

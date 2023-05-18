@@ -1,0 +1,44 @@
+nav{
+    margin: 25px 45px;
+}
+.textLogo{
+    letter-spacing: -1px;
+    font-family: "Raleway", Sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.navLink{
+    color: white;
+    margin: 0 25px;
+    font-size: 20px;
+}
+
+.navLink:hover{
+    color: #2CBCA5;
+}
+
+.btnLogin{
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.btnLogin:hover{
+    color: #2CBCA5;
+    background-color: #fff;
+}
+.li-btnLogin{
+    margin: 9px;
+}
+.navbar-toggler-icon{
+    border: 1px solid #505050;
+    color: #ffffff;
+}
+@media only screen and (min-width: 412px) and (max-width: 413px){
+    .textLogo{
+        font-size: 30px;
+    }
+}

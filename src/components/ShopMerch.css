@@ -1,0 +1,44 @@
+.merch-item{
+    margin: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #131325;
+    border-radius: 20px;
+    padding:40px;
+}
+.item-img{
+    width: 50%;
+}
+.item-name{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-top: 20px;
+}
+.item-rating span{
+    color: #2CBCA5;
+    margin-top: 10px;
+}
+.item-price{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    margin-top: 10px;
+}
+.cartBtn{
+    font-family: "Raleway", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    fill: #020710;
+    color: #2CBCA5;
+    background-color: #2f4c4f5e;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0px 4px 20px 0px rgba(21, 21, 21, 0.239);
+    padding: 15px 25px 15px 25px;
+}
+.cartBtn:hover{
+    color: #fff;
+}
