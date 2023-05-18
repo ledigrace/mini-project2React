@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/mini-project2React/static/css/main.9f045045.css",
+    "main.js": "/mini-project2React/static/js/main.ec7ae151.js",
+    "static/media/featureBG.png": "/mini-project2React/static/media/featureBG.3d4f52e252e8b552ea4b.png",
+    "static/media/featuresBg.png": "/mini-project2React/static/media/featuresBg.3d4f52e252e8b552ea4b.png",
+    "static/media/battleCollectionBG.png": "/mini-project2React/static/media/battleCollectionBG.df41397f906c93507e57.png",
+    "static/media/playVid.png": "/mini-project2React/static/media/playVid.b0eda1cec8507a180364.png",
+    "static/media/battleCollectPic2.png": "/mini-project2React/static/media/battleCollectPic2.a8bbdbb3648707323b2a.png",
+    "static/media/topMainBG.png": "/mini-project2React/static/media/topMainBG.d00615331b22fae37bf6.png",
+    "static/media/topMain.png": "/mini-project2React/static/media/topMain.8747b05b595f5cc011c5.png",
+    "static/media/img4.png": "/mini-project2React/static/media/img4.ab5b6f1d7062c7c1e12c.png",
+    "static/media/battleCollectPic1.png": "/mini-project2React/static/media/battleCollectPic1.e9b748b6cd7132a7f898.png",
+    "static/media/img6.png": "/mini-project2React/static/media/img6.e0d0b9eb9fdbf056ddd7.png",
+    "static/media/img1.png": "/mini-project2React/static/media/img1.a251c74cb26709757a6b.png",
+    "static/media/regNowBG.png": "/mini-project2React/static/media/regNowBG.f90a2371b40fe8ecabbf.png",
+    "static/media/rockMan.png": "/mini-project2React/static/media/rockMan.0d82e9e1a5a76fb91643.png",
+    "static/media/img3.png": "/mini-project2React/static/media/img3.69ce6acfd94a50ca68b3.png",
+    "static/media/baseConImg.png": "/mini-project2React/static/media/baseConImg.287ba2dcb9498ca018bc.png",
+    "static/media/img5.png": "/mini-project2React/static/media/img5.bada185943096a2beb61.png",
+    "static/media/joinNow.png": "/mini-project2React/static/media/joinNow.c8e58d27ffedf30c41e5.png",
+    "static/media/img2.png": "/mini-project2React/static/media/img2.0524e76f3f84fecba9b6.png",
+    "static/media/featuresPic3.png": "/mini-project2React/static/media/featuresPic3.f9405f336c41302a6cb0.png",
+    "static/media/featuresPic2.png": "/mini-project2React/static/media/featuresPic2.b77bf9dbd631004c0803.png",
+    "static/media/featuresPic4.png": "/mini-project2React/static/media/featuresPic4.4810ebb5464b1a3f1aa1.png",
+    "static/media/featuresPic5.png": "/mini-project2React/static/media/featuresPic5.571e8d8dd7b93100cb1b.png",
+    "static/media/featuresPic1.png": "/mini-project2React/static/media/featuresPic1.3db9125f0a2bfda8a52e.png",
+    "static/media/featuresPic6.png": "/mini-project2React/static/media/featuresPic6.af04fbabb1ff4470b241.png",
+    "static/media/star.png": "/mini-project2React/static/media/star.2d15f05b178b5a5d6f9a.png",
+    "static/media/img9.webp": "/mini-project2React/static/media/img9.79787ffa819a5b1bbdfb.webp",
+    "static/media/img7.webp": "/mini-project2React/static/media/img7.772d07bd65d225ba2bba.webp",
+    "static/media/img8.webp": "/mini-project2React/static/media/img8.34de46a23f9e7f1948ee.webp",
+    "index.html": "/mini-project2React/index.html",
+    "main.9f045045.css.map": "/mini-project2React/static/css/main.9f045045.css.map",
+    "main.ec7ae151.js.map": "/mini-project2React/static/js/main.ec7ae151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f045045.css",
+    "static/js/main.ec7ae151.js"
+  ]
+}
