@@ -13,7 +13,7 @@ const data = {
         {
             id: 1,
             img: img1,
-            title: 'Bad and Good Witch Shirt',
+            title: 'Bad and Good Witch TShirt',
             desc:'',
             price: 250,
         },
